@@ -1,2 +1,2 @@
 # FluYT
- An downloader for YouTube videos.
+ An elementary downloader for YouTube videos.
