@@ -1,0 +1,7 @@
+requests
+PySide6
+youtube_dl
+shutil
+
+[:python_version > "3.5"]
+importlib

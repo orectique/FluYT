@@ -1,0 +1,16 @@
+name: fluyt
+summary: A simple MP3 downloader for YouTube.
+description: Download music from YouTube directly to your local system using an intuitive GUI.
+version: git
+grade: stable
+confinement: devmode
+base: core20
+parts:
+  fluyt:
+    plugin: python
+    source: https://github.com/orectique/fluyt.git
+
+apps:
+  fluyt:
+    comman: bin/fluyt
+    plugs: [home, network, network-bind, removable-media]

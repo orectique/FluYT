@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+fluyt/fluyt.py
+fluyt.egg-info/PKG-INFO
+fluyt.egg-info/SOURCES.txt
+fluyt.egg-info/dependency_links.txt
+fluyt.egg-info/requires.txt
+fluyt.egg-info/top_level.txt
